@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+
+body {
+ margin-left: 24px;
+}
+#hero{
+    display:flex;
+}
+#btn_info{
+
+}
+#buttons_style button
+{
+padding: 10px 24px;
+border-radius: 20px;
+color: blue;
+background-color: rgb(250, 249, 248);
+border-color: blue;
+}
+#btn_space{
+    padding: 0.5rem;
+}
+.ash
+{
+    color: dimgrey;
+}
+#buttons_style1 button
+{
+    background-color: blue;
+    color: rgb(254, 255, 255);
+}
