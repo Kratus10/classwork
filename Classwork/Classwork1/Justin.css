@@ -7,9 +7,12 @@
 
 body {
  margin-left: 24px;
+ margin-right: 0;
 }
 #hero{
     display:flex;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 #buttons_style button
 {
@@ -30,4 +33,37 @@ border-color: blue;
 {
     background-color: blue;
     color: rgb(254, 255, 255);
+}
+#name_title{
+    padding: 0;
+    margin-left: 1rem;
+}
+#btn_experience{
+    padding-top: 2rem;
+}
+#certs{
+    padding-top: 1rem;
+    background-color: #e9e9d8;
+}
+#Experience{
+    padding-top: 1rem;
+    background-color: #d8d8d2;
+}
+#what_i_do p{
+    background-color: rgb(223, 223, 245);
+}
+#picture_section{
+    background-color: rgb(203, 229, 247);
+}
+#personal_info{
+    padding: 1rem;
+}
+#holla_btn{
+ padding-top: 1rem;
+}
+#what_i_do{
+    padding-top: 1rem
+}
+.ash p{
+    padding-bottom: 1rem;
 }
